@@ -1,0 +1,35 @@
+#section3{
+    /* border: 2px solid red; */
+    height: 720px;
+    display: flex;
+}
+#section3 img{
+    height: 550px;
+    width: 550px;
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 720px;
+}
+#section3 div{
+    /* border: 2px solid red; */
+    height: 400px;
+    width: 400px;
+    margin-top: 200px;
+    margin-left: 110px;
+}
+#section3 div h1{
+    font-size: 48px;
+}
+#section3 button{
+    padding: 10px;
+    border-radius: 6px;
+    width: 130px;
+    cursor: pointer;
+    color: white;
+    background-color: black;
+}
+#Check{
+    margin-left: 150px;
+    margin-top: -30px;
+    cursor: pointer;
+}

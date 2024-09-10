@@ -1,0 +1,42 @@
+#section5{
+    /* border: 2px solid red; */
+    height: 450px;
+    /* display: flex; */
+}
+#content{
+    /* border: 2px solid blue; */
+    height: 50px;
+    width: 40%;
+    margin-top: 70px;
+    margin-left: 140px;
+}
+#content h1{
+    font-size: 35px;
+}
+#scanner{
+    /* border: 2px solid red; */
+    height: 300px;
+    display: flex;
+    align-items: center;
+}
+#scanner div{
+    /* border: 2px solid yellow; */
+    height: 200px;
+    width: 40%;
+    display: flex;
+    margin-left: 130px;
+}
+#scanner div span img{
+    height: 150px;
+    width: 150px;
+}
+#scanner div span+span{
+    margin-top: 50px;
+}
+#scanner div i{
+    top: 50px;
+    margin-top: 80px;
+    margin-left: 50px;
+    cursor: pointer;
+}
+

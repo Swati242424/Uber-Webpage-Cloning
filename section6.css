@@ -1,0 +1,94 @@
+#section6{
+    border: 2px solid black;
+    height: 1000px;
+    background-color: black;
+}
+#uber{
+    /* border: 2px solid blue; */
+    height: 70px;
+    width: 80%;
+    margin-top: 100px;
+    margin-left: 150px;
+    font-size: 20px;
+    color: white;
+}
+#section6 p{
+    color: white;
+}
+#list{
+    /* border: 2px solid red; */
+    height: 400px;
+    width: 80%;
+    margin-left: 150px;
+    display: flex;
+}
+#list div{
+    /* border: 2px solid yellow; */
+    height: 370px;
+    width: 250px;
+    margin-top: 30px;
+    color: white;
+}
+#list div h4:hover{
+    color: rgb(59, 60, 61);
+    cursor: pointer;
+}
+#section6 ol{
+    /* border: 2px solid green; */
+    display: inline-flex;
+    list-style: none;
+    align-items: center;
+    justify-content: space-between;
+    width: 400px;
+    height: 50px;
+    margin-top: 80px;
+    margin-left: 150px;
+}
+#logo6{
+    /* border: 2px solid green; */
+    height: 70px;
+    width: 250px;
+    margin-top: 50px;
+    margin-left: 150px;
+    display: flex;
+    justify-content: space-between;
+}
+#logo6 img{
+    height: 65px;
+    width: 120px;
+    cursor: pointer;
+}
+#section6 p{
+    margin-left: 150px;
+    color: white;
+}
+#langloc{
+    /* border: 2px solid blue; */
+    height: 50px;
+    width: 200px;
+    margin-left: 1000px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: -230px;
+}
+#langloc button{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+#terms{
+    /* border: 2px solid blue; */
+    height: 50px;
+    width: 300px;
+    margin-left: 1000px;
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+#terms a{
+    text-decoration: none;
+    color: white;
+}
+#terms a:hover{
+    color: rgb(32, 33, 33);
+}
